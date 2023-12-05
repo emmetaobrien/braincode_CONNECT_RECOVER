@@ -1,0 +1,314 @@
+{
+  "title": "RECOVER: REaching patients with a COncussion Visiting the Emergency Room to enhance care",
+  "description": "The Concussion Ontario Network: Neuroinformatics to Enhance Clinical care and Translation (CONNECT) is a collaborative network of 10 clinical sites across Ontario that aim to ensure new knowledge of concussion is translated into better diagnosis and care for the benefit of all Ontarians.  Given that the pathophysiology of concussion is largely unknown, a systems approach could provide a holistic framework for the study of concussion. Therefore, the overall purpose of the RECOVER pilot study is to demonstrate the ability to characterize ultra-early acute concussion in adults using a harmonized multi-scale system approach by collecting data that are potential predictors of persistent post-concussion symptoms (PPCS) over a 12- week period.",
+  "dates": [
+    {
+      "date": "2021-04-01 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2022-03-31 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "1 Richmond Street West"
+      }
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "concussion"
+      }
+    },
+    {
+      "information": {
+        "value": "PPCS"
+      }
+    },
+    {
+      "information": {
+        "value": "Persistent Post-Concussion Symptoms"
+      }
+    },
+    {
+      "information": {
+        "value": "follow-ups"
+      }
+    },
+    {
+      "information": {
+        "value": "mood"
+      }
+    },
+    {
+      "information": {
+        "value": "pain"
+      }
+    },
+    {
+      "information": {
+        "value": "balance"
+      }
+    },
+    {
+      "information": {
+        "value": "reaction"
+      }
+    },
+    {
+      "information": {
+        "value": "sleep"
+      }
+    },
+    {
+      "information": {
+        "value": "symptoms"
+      }
+    },
+    {
+      "information": {
+        "value": "abilities"
+      }
+    },
+    {
+      "information": {
+        "value": "quality of life"
+      }
+    },
+    {
+      "information": {
+        "value": "treatment"
+      }
+    },
+    {
+      "information": {
+        "value": "neuroimaging"
+      }
+    },
+    {
+      "information": {
+        "value": "MRI"
+      }
+    },
+    {
+      "information": {
+        "value": "locomotion"
+      }
+    },
+    {
+      "information": {
+        "value": "saccadometry"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "BVAL",
+        "BVEC",
+        "CSV",
+        "DOCX",
+        "JSON",
+        "NIfTI"
+      ],
+      "size": 5.21,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Canada"
+    }
+  ],
+  "aggregation": "instance of dataset",
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Government of Ontario"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "concussion"
+    },
+    {
+      "value": "PPCS"
+    },
+    {
+      "value": "Persistent Post-Concussion Symptoms"
+    },
+    {
+      "value": "follow-ups"
+    },
+    {
+      "value": "mood"
+    },
+    {
+      "value": "pain"
+    },
+    {
+      "value": "balance"
+    },
+    {
+      "value": "reaction"
+    },
+    {
+      "value": "sleep"
+    },
+    {
+      "value": "symptoms"
+    },
+    {
+      "value": "abilities"
+    },
+    {
+      "value": "quality of life"
+    },
+    {
+      "value": "treatment"
+    },
+    {
+      "value": "neuroimaging"
+    },
+    {
+      "value": "MRI"
+    },
+    {
+      "value": "locomotion"
+    },
+    {
+      "value": "saccadometry"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "672"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.braincode.ca/sites/default/files/dr014_CON_logo.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
