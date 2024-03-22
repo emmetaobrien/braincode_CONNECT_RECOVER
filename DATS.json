@@ -53,12 +53,14 @@
     },
     {
       "information": {
-        "value": "pain"
+        "value": "pain",
+		"valueIRI": "http://uri.interlex.org/ilx_0108364"
       }
     },
     {
       "information": {
-        "value": "balance"
+        "value": "balance",
+		"valueIRI": "http://uri.interlex.org/ilx_0101080"
       }
     },
     {
@@ -68,7 +70,8 @@
     },
     {
       "information": {
-        "value": "sleep"
+        "value": "sleep",
+		"valueIRI": "http://uri.interlex.org/ilx_0381893"
       }
     },
     {
@@ -88,22 +91,26 @@
     },
     {
       "information": {
-        "value": "treatment"
+        "value": "treatment",
+		"valueIRI": "http://uri.interlex.org/ilx_0111925"
       }
     },
     {
       "information": {
-        "value": "neuroimaging"
+        "value": "neuroimaging",
+		"valueIRI": "http://uri.interlex.org/ilx_0741206"
       }
     },
     {
       "information": {
-        "value": "MRI"
+        "value": "MRI",
+		"valueIRI": "http://uri.interlex.org/ilx_0779748"
       }
     },
     {
       "information": {
-        "value": "locomotion"
+        "value": "locomotion",
+		"valueIRI": "http://uri.interlex.org/ilx_0106332"
       }
     },
     {
