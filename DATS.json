@@ -317,6 +317,14 @@
         }
       ]
     },
+	{
+		"category": "downloadOptions",
+		"values": [
+			{
+				"value": "offsite"
+			}
+		]
+	},
     {
       "category": "REB_statement",
       "values": [
